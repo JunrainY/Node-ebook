@@ -16,7 +16,7 @@ if (env === 'dev') {
   mp3FilePath = '/root/nginx/upload/mp3'
   dbHost = '8.131.226.247'
   dbUser = 'root'
-  dbPwd = 'Abcd123456.'
+  dbPwd = '15222029936Yl.'
 }
 
 const category = [
